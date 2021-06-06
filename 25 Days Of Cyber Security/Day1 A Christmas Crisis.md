@@ -4,7 +4,7 @@
 - Deploy the attack machine and the challenge by clicking the green buttons on your screen.
 - Then open the browser and enter the IP of the deployed challenge box. Just in case it takes time, don't hurry, sometimes it takes more time than usual but not more than 5mins.
 - It will open the web page somewhat like the given below:
-![6031eda223a621c8504e647e2844f0bc.png](:/0d3e4a4d976844f2a92a95b98dff85c1)
+![login panel]{../../.img/1.png}
 - Now create a user by typing in a ***username*** & a ***password*** then click on the ***register button***. Right after registering, click on the ***login button*** and you are done with setting up an account.
 - Toggle on the developer tools of the browser ***(ctrl+shift+I or fn+f12***). And navigate to the ***data panel***. Here you can see the ***cookie name*** and ***value***(usually found in the storage section).
 ![8cf5b6223082f34731b5cdcdbf446960.png](:/8c00a53f88f4429798dfd4a8844a1e79)
