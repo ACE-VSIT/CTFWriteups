@@ -1,10 +1,11 @@
+![1](https://user-images.githubusercontent.com/83836972/120929169-9bf1a180-c705-11eb-9471-8d1c4e015c22.png)
 # Day1
 ## A Christmas Crisis
 
 - Deploy the attack machine and the challenge by clicking the green buttons on your screen.
 - Then open the browser and enter the IP of the deployed challenge box. Just in case it takes time, don't hurry, sometimes it takes more time than usual but not more than 5mins.
 - It will open the web page somewhat like the given below:
-![login panel]{../../.img/1.png}
+![login panel]{![1](https://user-images.githubusercontent.com/83836972/120929169-9bf1a180-c705-11eb-9471-8d1c4e015c22.png)}
 - Now create a user by typing in a ***username*** & a ***password*** then click on the ***register button***. Right after registering, click on the ***login button*** and you are done with setting up an account.
 - Toggle on the developer tools of the browser ***(ctrl+shift+I or fn+f12***). And navigate to the ***data panel***. Here you can see the ***cookie name*** and ***value***(usually found in the storage section).
 ![8cf5b6223082f34731b5cdcdbf446960.png](:/8c00a53f88f4429798dfd4a8844a1e79)
