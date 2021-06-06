@@ -1,4 +1,3 @@
-![1](https://user-images.githubusercontent.com/83836972/120929169-9bf1a180-c705-11eb-9471-8d1c4e015c22.png)
 # Day1
 ## A Christmas Crisis
 
@@ -8,7 +7,7 @@
 ![login panel]{![1](https://user-images.githubusercontent.com/83836972/120929169-9bf1a180-c705-11eb-9471-8d1c4e015c22.png)}
 - Now create a user by typing in a ***username*** & a ***password*** then click on the ***register button***. Right after registering, click on the ***login button*** and you are done with setting up an account.
 - Toggle on the developer tools of the browser ***(ctrl+shift+I or fn+f12***). And navigate to the ***data panel***. Here you can see the ***cookie name*** and ***value***(usually found in the storage section).
-![8cf5b6223082f34731b5cdcdbf446960.png](:/8c00a53f88f4429798dfd4a8844a1e79)
+!{![2](https://user-images.githubusercontent.com/83836972/120929208-cb081300-c705-11eb-90ca-3af201df4bcc.png)}
 - Here you can see all the information regarding that cookie along with the name, i.e. auth. Looking at the value you can either know by experience what kind of encoding is used. Or, if you have no idea you can pull up ***cyberchef***, paste in the value and get the output. However the format is of ***Hexadecimal***.
 - For my username of errorrrr404 the cookie decodes to:***{"company":"The Best Festival Company", "username":"errorrrr404"}***
 - This is the ***JSON*** format (Java Script Object Notation) for further information regarding JSON you can head straight onto google.
@@ -17,3 +16,4 @@
 - Now we go back to the website and out developer tools. We replace the ***value of the auth*** cookie with what we just calculated, then ***reload*** the page.
 - All the switches are flipped on, and the final flag is revealed.(it will reveal over the last switch, you can easily spot that)
 ![8bd6379165e9845a0c35380a0046541a.png](:/339b8b5b6b734428ad365e8ac1186201)
+
