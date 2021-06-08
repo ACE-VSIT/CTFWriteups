@@ -65,7 +65,7 @@ Save the file.
 
 Now we need to start our netcat listener in order to receive the shell when we execute the file, using the command: 
 
-***nc -nvlp 1234***
+***nc -lnvp 1234***
 
 **NOTE: Make sure the port matches the port you put into the uploaded file!**
 
