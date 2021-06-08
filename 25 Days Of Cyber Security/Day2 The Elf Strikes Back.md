@@ -72,6 +72,7 @@ Now we need to start our netcat listener in order to receive the shell when we e
 If everything is successful we should see the reverse shell prompt appear!
 
 ![9](https://user-images.githubusercontent.com/83836972/121180696-c1ee8180-c87e-11eb-8431-394c8f14ba80.PNG)
+
 In the last question we need to find the flag in the file ***/var/www/flag.txt***. 
 
 We can simply use ***cat***  to read the contents of the file and reveal the flag! Run ***cat /var/www/flag.txt*** and there you get your flag!
