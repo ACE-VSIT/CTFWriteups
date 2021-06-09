@@ -7,6 +7,7 @@ This task is very easy, we'll be using ***Burpsuite*** to complete the task but 
 Moving straight onto the task, head over to the ip provided, and you'll see a webpage as below:
 
 ![10](https://user-images.githubusercontent.com/83836972/121354718-c71a0200-c94c-11eb-94b5-71185e697028.PNG)
+
 Try those id and passwords that are provided to you.
 I did, but all of them were wrong, so let's use Burp!
 
