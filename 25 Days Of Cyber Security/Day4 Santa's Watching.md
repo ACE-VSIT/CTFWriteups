@@ -4,7 +4,7 @@
 
 Deploy the machine and then go through the provided information.
 
-Then just enter the ip of that challenge to the browser and you'll see a site as below:
+Then just enter the IP of that challenge to the browser and you'll see a site as below:
 
 ![24](https://user-images.githubusercontent.com/83836972/121534180-9d311000-ca1e-11eb-9a88-6ada646b49f0.PNG)
 
@@ -14,13 +14,13 @@ The next step is to figure out what the wfuzz command would look like for the pr
 
 If you've gone through the dossier carefully you can easily answer this question, however the answer is as mentioned below:
 
-***wfuzz -c -z file,big.txt http://shibes.xyz/api.php?breed=FUZZ***
+`***wfuzz -c -z file,big.txt http://shibes.xyz/api.php?breed=FUZZ***`
 
 Now we'll try to find the ***API with gobuster***. 
 
 As suggested, we use ***-w*** to ***specify the dirbuster big word list***. We add the ***.php extension with -x***. This is not needed to solve the challenge, it just put it in there because most forum software is written in php and so have been the previous challenges. By the code is:
 
-***gobuster dir -u http://10.10.79.210/ -w /usr/share/wordlists/dirb/big.txt -x .php***
+`***gobuster dir -u http://10.10.79.210/ -w /usr/share/wordlists/dirb/big.txt -x .php***`
 
 And you'll get something like below:
 
@@ -36,13 +36,13 @@ The challenge tells us that the parameter for that directory is date.
 
 So we find that out by ***wfuzz***.
 
-***wfuzz -c -z file,/home/kali/Downloads/wordlist  -u http://10.10.106.143/api/site-log.php?date=FUZZ***
+`***wfuzz -c -z file,/home/kali/Downloads/wordlist  -u http://10.10.106.143/api/site-log.php?date=FUZZ***`
 
 ![27](https://user-images.githubusercontent.com/83836972/121534239-ad48ef80-ca1e-11eb-85be-c9238cf7c9d1.PNG)
 
 Here, we see one of the results to have a different length. So we'll just pull up the url with that parameter by:
 
-***http://10.10.79.210/api/site-log.php?date=20201125***
+`***http://10.10.79.210/api/site-log.php?date=20201125***`
 
 where, 20201125 is the payload of that!
 
