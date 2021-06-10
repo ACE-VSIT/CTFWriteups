@@ -7,6 +7,7 @@ Deploy the machine and then go through the provided information.
 Then just enter the ip of that challenge to the browser and you'll see a site as below:
 
 ![24](https://user-images.githubusercontent.com/83836972/121534180-9d311000-ca1e-11eb-9a88-6ada646b49f0.PNG)
+
 And with this we completed our first question, wow!
 
 The next step is to figure out what the wfuzz command would look like for the provided URL.
