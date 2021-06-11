@@ -34,11 +34,11 @@ First, open up BurpSuite and make sure your proxy is turned on.***(In day3, we'v
 
 Then capture a request from the website.
 
-Right Click > Sent to Repeater on the request.
+***Right Click > Sent to Repeater on the request***.
 
 ![32](https://user-images.githubusercontent.com/83836972/121699965-0f702600-caed-11eb-8ba6-87d726170b0c.PNG)
 
-Right Click > Save Item to save the request in a folder. Name it anything, like `SantaPanel`.
+***Right Click > Save Item to save the request in a folder***. Name it anything, like `SantaPanel`.
 
 We can now use that request in SQLMap.
 
