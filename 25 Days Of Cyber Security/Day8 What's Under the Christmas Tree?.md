@@ -15,7 +15,7 @@ And it'll show you the ports as well as the answer to the next question that is 
 Now, let’s run a nmap script to determine the http-title: 
 `nmap --script http-title -p 80 10.10.176.108`
 
-![45](https://user-images.githubusercontent.com/83836972/122218494-21c2d900-cecc-11eb-8303-0ff9ca6d5fa3.PNG)
+![45](https://user-images.githubusercontent.com/83836972/122218858-7c5c3500-cecc-11eb-8a88-a94b63da9a8c.PNG)
 
 And here' you'll get the answer for what this website might be used for!!
 
