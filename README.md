@@ -17,3 +17,5 @@ Day6 https://github.com/ACE-VSIT/CTFWriteups/blob/main/25%20Days%20Of%20Cyber%20
 Day7 https://github.com/ACE-VSIT/CTFWriteups/blob/main/25%20Days%20Of%20Cyber%20Security/Day7%20The%20Grinch%20Really%20Did%20Steal%20Christmas.md
 
 Day8 https://github.com/ACE-VSIT/CTFWriteups/blob/main/25%20Days%20Of%20Cyber%20Security/Day8%20What's%20Under%20the%20Christmas%20Tree%3F.md
+
+Day9 https://github.com/ACE-VSIT/CTFWriteups/blob/main/25%20Days%20Of%20Cyber%20Security/Day9%20Anyone%20can%20be%20Santa!.md
