@@ -21,3 +21,7 @@ Day8 https://github.com/ACE-VSIT/CTFWriteups/blob/main/25%20Days%20Of%20Cyber%20
 Day9 https://github.com/ACE-VSIT/CTFWriteups/blob/main/25%20Days%20Of%20Cyber%20Security/Day9%20Anyone%20can%20be%20Santa!.md
 
 Day10 https://github.com/ACE-VSIT/CTFWriteups/blob/main/25%20Days%20Of%20Cyber%20Security/Day10%20Don't%20be%20sElfish!.md
+
+Day11 https://github.com/ACE-VSIT/CTFWriteups/blob/main/25%20Days%20Of%20Cyber%20Security/Day11%20The%20Rogue%20Gnome.md
+
+Day12 https://github.com/ACE-VSIT/CTFWriteups/blob/main/25%20Days%20Of%20Cyber%20Security/Day12%20Ready%2C%20set%2C%20elf..md
