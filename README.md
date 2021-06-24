@@ -4,7 +4,7 @@ Technical Writeups of CTF Sessions at ACE
  
 | CTF Name | Link |
 | -------- | ---- |
-| 25 Days of CyberSecurity | [Click Here](https://github.com/ACE-VSIT/CTFWriteups/blob/main/TryHackMe/25%20Days%20Of%20Cyber%20Security/25Days.md) |
+| 25 Days of CyberSecurity | [Click Here](TryHackMe/25%20Days%20Of%20Cyber%20Security/README.md)) |
 
 Day1 https://github.com/ACE-VSIT/CTFWriteups/blob/main/25%20Days%20Of%20Cyber%20Security/Day1%20A%20Christmas%20Crisis.md
 
