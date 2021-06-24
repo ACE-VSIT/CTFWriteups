@@ -25,3 +25,5 @@ Day10 https://github.com/ACE-VSIT/CTFWriteups/blob/main/25%20Days%20Of%20Cyber%2
 Day11 https://github.com/ACE-VSIT/CTFWriteups/blob/main/25%20Days%20Of%20Cyber%20Security/Day11%20The%20Rogue%20Gnome.md
 
 Day12 https://github.com/ACE-VSIT/CTFWriteups/blob/main/25%20Days%20Of%20Cyber%20Security/Day12%20Ready%2C%20set%2C%20elf..md
+
+Day13 https://github.com/ACE-VSIT/CTFWriteups/blob/main/25%20Days%20Of%20Cyber%20Security/Day13%20Coal%20for%20Christmas.md
