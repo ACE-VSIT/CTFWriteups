@@ -15,3 +15,4 @@
 | Day 7 | The Grinch Really Did Steal Christmas | [Click Here](Day7 The Grinch Really Did Steal Christmas.md)
 | Day 8 | What's Under the Christmas Tree | [Click Here](Day8 What's Under the Christmas Tree.md)
 | Day 9 | Anyone can be Santa! | [Click Here](Day9 Anyone can be Santa!.md)
+
